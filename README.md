@@ -40,6 +40,6 @@ int main() {
 |WhatsApp|[ссылка](https://github.com/be8ekk) |30 минут|
 |Telegram|[ссылка](https://github.com/be8ekk) |5 минут|
 
-
+## Скрипт **username.sh** выводит мое имя
 
 
