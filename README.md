@@ -1,4 +1,7 @@
 # stepik-id-printer (h1)
+
+![](https://static.tildacdn.com/tild3833-3761-4461-a464-623534303765/Group_337.png)
+
 Это проект для вывода моего персонального идентификатора на _образовательной платформе_ `stepik.org`
 # Возможности (h2)
 Данный проект имеет следующий функционал. 
@@ -40,6 +43,6 @@ int main() {
 |WhatsApp|[ссылка](https://github.com/be8ekk) |30 минут|
 |Telegram|[ссылка](https://github.com/be8ekk) |5 минут|
 
-
+## Скрипт **username.sh** выводит мое имя
 
 
